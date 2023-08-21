@@ -22,5 +22,6 @@ F1_score: 0.8571428571428572
 
 # Statistics:
 
-![f10e1d31-9d00-4fce-8868-ab627024ae4c](https://github.com/Yashasvi-b/Diabetes-Using-ML/assets/92221403/9457259d-95a3-4d3e-914d-860995f04d03)
+![f67809d1-bf76-4bde-9be5-5e2f70ae7f3a](https://github.com/Yashasvi-b/Diabetes-Using-ML/assets/92221403/cec774e3-f3c7-4190-af39-ef15bf577611)
+
 
